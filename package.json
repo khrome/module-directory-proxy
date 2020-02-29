@@ -1,0 +1,16 @@
+{
+    "name": "module-directory-proxy",
+    "main": "proxy.js",
+    "version": "0.0.1",
+    "dependencies": {
+        "async": "^3.2.0",
+        "uuid": "^3.4.0",
+        "npm-programmatic": "0.0.12"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "chai-fs": "^2.0.0",
+        "homedir": "^0.6.0",
+        "mocha": "^7.0.1"
+    }
+}
